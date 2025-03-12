@@ -1,3 +1,4 @@
+I am starting this 90days journey over again after 3 incomplete attempt since 2022. - Paul Jackson
 ---
 title: '#90DaysOfDevOps - Introduction - Day 1'
 published: true
